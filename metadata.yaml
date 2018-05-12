@@ -1,16 +1,22 @@
 _repo: The-Works-of-Horace-With-English-Notes-Twentieth-Edition_46938
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Chase, Reginald H.
       gutenberg_agent_id: '44045'
       url: http://www.gutenberg.org/2009/agents/44045
+covers:
+- cover_type: archival
+  image_path: 46938-h/images/cover.jpg
 creator:
   author:
     agent_name: Macleane, A. J.
     gutenberg_agent_id: '44044'
     url: http://www.gutenberg.org/2009/agents/44044
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46938#The-Works-of-Horace-With-English-Notes-Twentieth-Edition
 gutenberg_issued: '2014-09-22'
 gutenberg_type: Text
 identifiers:
